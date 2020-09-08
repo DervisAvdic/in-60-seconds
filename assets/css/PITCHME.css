@@ -1,5 +1,10 @@
 html, body {
   background-color: #fff !important;
+  text: #0000 !important;
+}
+
+.ingka-blue {
+  text: #0058a3
 }
 
 .spaced li {

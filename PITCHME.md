@@ -1,4 +1,3 @@
----?color=linear-gradient(180deg, white 100%)
 # Let's FUCKED **Started**
 
 ---
