@@ -8,7 +8,7 @@
 ---
 @title[Benefits]
 
-@snap[north span-55]
+@snap[north-west span-55]
 ## Benefits
 @snapend
 
