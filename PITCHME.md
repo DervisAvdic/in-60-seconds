@@ -1,8 +1,12 @@
 # API Management. Next step?
 
+
+
 ## Current setup
+
 ![IMAGE](assets/img/test.jpg)
 
+@snap[west span-55]
 ## Customize the Layout
 @snapend
 
