@@ -1,10 +1,10 @@
-# API Management. What?
+# API Management. Next step?
 
 ---
 
-### Add Some Slide Candy
+## Current setup
 
-![IMAGE](assets/img/presentation.png)
+![IMAGE](assets/img/test.jpg)
 
 ---?color=linear-gradient(180deg, white 75%, black 25%)
 @title[Customize Slide Layout]
