@@ -36,6 +36,11 @@ html, body {
   text: #0058a3
 }
 
+.reveal .progress {
+  background-color: #000000 !important;
+  color: #0058a3 !important;
+}
+
 .spaced li {
   margin:0 0 10px 0;
 }
