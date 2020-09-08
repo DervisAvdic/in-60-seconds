@@ -1,5 +1,6 @@
 # Let's Get **Started**
 
+---?color=linear-gradient(180deg, white 75%, black 25%)
 ---
 
 ### Add Some Slide Candy
