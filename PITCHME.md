@@ -5,8 +5,8 @@
 ## Current setup
 ![IMAGE](assets/img/test.jpg)
 
-@title[Customize Slide Layout]
-@snap[west span-55]
+---
+
 ## Customize the Layout
 @snapend
 
