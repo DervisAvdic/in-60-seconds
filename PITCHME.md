@@ -1,6 +1,6 @@
+---?color=linear-gradient(180deg, white 75%, black 25%)
 # Let's FUCKED **Started**
 
----?color=linear-gradient(180deg, white 75%, black 25%)
 ---
 
 ### Add Some Slide Candy
