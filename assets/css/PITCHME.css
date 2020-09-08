@@ -41,6 +41,10 @@ html, body {
   color: #0058a3 !important;
 }
 
+.reveal {
+  color: #000000 !important;
+}
+
 .spaced li {
   margin:0 0 10px 0;
 }
