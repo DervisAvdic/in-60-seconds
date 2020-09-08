@@ -1,23 +1,16 @@
 # API Management. Next step?
 
----
-
 ## Current setup
-
 ![IMAGE](assets/img/test.jpg)
 
----?color=linear-gradient(180deg, white 75%, black 25%)
-@title[Customize Slide Layout]
-
-@snap[west span-55]
 ## Customize the Layout
 @snapend
 
 @snap[north-east span-45]
-![IMAGE](assets/img/presentation.png)
+![IMAGE](assets/img/growth.png)
 @snapend
 
-@snap[south span-100]
+@snap[south span-100]  
 Snap Layouts let you create custom slide designs directly within your markdown.
 @snapend
 
