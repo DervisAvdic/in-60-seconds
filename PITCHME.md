@@ -5,6 +5,10 @@
 ## Current setup
 ![IMAGE](assets/img/current-setup.jpg)
 
+@snap[south span-100 text-gray text-08]
+@[1-5]We can call this setup - Software as a Service
+@snapend
+
 ---
 @title[Benefits]
 
