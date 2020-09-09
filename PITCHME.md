@@ -20,6 +20,10 @@
 - And GitPitch Markdown
 @ulend
 
+@snap[east span-45]
+![IMAGE](assets/img/presentation.png)
+@snapend
+
 ---
 @title[Add A Little Imagination]
 
