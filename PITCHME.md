@@ -8,9 +8,16 @@
 ---
 @title[Benefits]
 
-@snap[north-west span-100]
+@snap[north-west span-55]
 ## Benefits
 @snapend
+
+@ul[list-spaced-bullets text-09]
+- You will be amazed
+- What you can achieve
+- With a **little imagination**
+- And GitPitch Markdown
+@ulend
 
 @snap[north-east span-45]
 ![IMAGE](assets/img/presentation.png)

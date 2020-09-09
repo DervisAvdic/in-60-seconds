@@ -3,6 +3,10 @@ html, body {
   color: #000000 !important;
 }
 
+.reveal {
+  color: #000000 !important;
+}
+
 .reveal h1,
 .reveal h2 {
   color: #0058a3
