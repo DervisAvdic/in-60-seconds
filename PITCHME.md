@@ -2,7 +2,10 @@
 
 ---
 
-## Current setup
+@snap[north center span-80]
+## Today
+@snapend
+
 @snap[south span-70]
 ![IMAGE](assets/img/current-setup.jpg)
 @snapend
