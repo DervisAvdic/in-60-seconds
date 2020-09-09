@@ -19,6 +19,7 @@
 - With a **little imagination**
 - And GitPitch Markdown
 @ulend
+@snapend
 
 @snap[east span-45]
 ![IMAGE](assets/img/presentation.png)
