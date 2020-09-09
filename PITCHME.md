@@ -10,7 +10,7 @@
 ![IMAGE](assets/img/current-setup.jpg)
 @snapend
 
-@snap[south span-100 text-gray text-08]
+@snap[south span-100 black text-08]
 @[1-5](Recognize yourself?)
 @[6,7, zoom-13](This is the current setup with API Management.)
 @[8-9, zoom-12](Let's go over the benefits.)
