@@ -3,7 +3,7 @@
 ---
 
 ## Current setup
-![IMAGE](assets/img/test.jpg)
+![IMAGE](assets/img/current-setup.jpg)
 
 ---
 @title[Benefits]
@@ -22,7 +22,7 @@
 @snapend
 
 @snap[east span-45]
-![IMAGE](assets/img/presentation.png)
+![IMAGE](assets/img/centralized.png)
 @snapend
 
 ---
