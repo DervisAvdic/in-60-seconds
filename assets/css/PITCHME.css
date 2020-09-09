@@ -8,7 +8,8 @@ html, body {
 }
 
 .reveal h1,
-.reveal h2 {
+.reveal h2,
+.reveal h3 {
   color: #0058a3
 }
 
