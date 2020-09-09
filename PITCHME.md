@@ -14,10 +14,9 @@
 
 @snap[west span-55]
 @ul[list-spaced-bullets text-09]
-- You will be amazed
-- What you can achieve
-- With a **little imagination**
-- And GitPitch Markdown
+- APIM takes care of infrastructure
+- APIM takes care of support
+- APIM takes care of cost
 @ulend
 @snapend
 
@@ -34,10 +33,9 @@
 
 @snap[west span-55]
 @ul[list-spaced-bullets text-09]
-- You will be amazed
-- What you can achieve
-- With a **little imagination**
-- And GitPitch Markdown
+- APIM takes care of infrastructure
+- APIM takes care of support
+- APIM takes care of cost
 @ulend
 @snapend
 
