@@ -2,7 +2,7 @@
 
 ---
 
-@snap[north center span-70]
+@snap[north center span-50]
 ## Today
 @snapend
 
