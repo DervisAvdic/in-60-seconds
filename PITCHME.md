@@ -20,7 +20,7 @@
 - And GitPitch Markdown
 @ulend
 
-@snap[north-east span-45]
+@snap[east span-45]
 ![IMAGE](assets/img/presentation.png)
 @snapend
 
