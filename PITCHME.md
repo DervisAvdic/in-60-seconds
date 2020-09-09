@@ -6,8 +6,11 @@
 ## Today
 @snapend
 
-@snap[south span-100]
+@snap[south span-90]
 ![IMAGE](assets/img/current-setup.jpg)
+@snapend
+
+@snap[south span-100 black text-08]
 @snapend
 
 @snap[south span-100 black text-08]
