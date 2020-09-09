@@ -36,8 +36,19 @@
 @snapend
 
 ---
-## New setup
+@snap[north center span-100]
+## Tomorrow
+@snapend
+
+@snap[south span-90]
 ![IMAGE](assets/img/new-stuff.jpg)
+@snapend
+
+@snap[south span-100 black text-08]
+@[1-5](Pretty nice stuff yeah?)
+@[6,7, zoom-13](This is a new service that we would like to offer.)
+@[8-9, zoom-12](Let's go over the benefits.)
+@snapend
 
 ---
 @title[Benefits]
