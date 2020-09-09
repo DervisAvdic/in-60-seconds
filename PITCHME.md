@@ -20,14 +20,6 @@
 - And GitPitch Markdown
 @ulend
 
-@snap[east span-45]
-![IMAGE](assets/img/presentation.png)
-@snapend
-
-@snap[south span-100]
-Snap Layouts let you create custom slide designs directly within your markdown.
-@snapend
-
 ---
 @title[Add A Little Imagination]
 
