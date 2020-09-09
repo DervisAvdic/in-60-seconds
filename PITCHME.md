@@ -6,7 +6,7 @@
 ## Today
 @snapend
 
-@snap[south span-70]
+@snap[south span-90]
 ![IMAGE](assets/img/current-setup.jpg)
 @snapend
 
