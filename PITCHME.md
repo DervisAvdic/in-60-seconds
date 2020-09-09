@@ -2,10 +2,10 @@
 
 ---
 
-@snap[north-west span-55]
 ## Current setup
-@snapend
+@snap[north span-55]
 ![IMAGE](assets/img/current-setup.jpg)
+@snapend
 
 @snap[north-east span-20 text-gray text-08]
 @[1-5](You can step-and-ZOOM into fenced-code blocks, source files, and Github GIST.)
