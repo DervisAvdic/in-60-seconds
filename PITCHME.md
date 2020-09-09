@@ -25,6 +25,10 @@
 @snapend
 
 ---
+## New setup
+![IMAGE](assets/img/current-setup.jpg)
+
+---
 @title[Add A Little Imagination]
 
 @snap[north-west span-50 text-center]
