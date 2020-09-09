@@ -26,7 +26,7 @@
 
 ---
 ## New setup
-![IMAGE](assets/img/new-setup.jpg)
+![IMAGE](assets/img/.jpg)
 
 ---
 @title[Add A Little Imagination]
