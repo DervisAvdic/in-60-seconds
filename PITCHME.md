@@ -40,7 +40,7 @@
 ## Tomorrow
 @snapend
 
-@snap[south span-100]
+@snap[north span-100]
 ![IMAGE](assets/img/new-stuff.jpg)
 @snapend
 
