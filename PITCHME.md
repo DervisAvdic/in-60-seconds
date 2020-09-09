@@ -29,26 +29,22 @@
 ![IMAGE](assets/img/new-stuff.jpg)
 
 ---
-@title[Add A Little Imagination]
+@title[Benefits]
 
-@snap[north-west span-50 text-center]
-#### Engage your Audience
+@snap[north-west span-55]
+## Benefits
 @snapend
 
 @snap[west span-55]
 @ul[list-spaced-bullets text-09]
-- APIM takes care of infrastructure
-- APIM takes care of support
-- APIM takes care of cost
+- Secure data
+- Resolve support cases faster
+- Achieve product team autonomy
 @ulend
 @snapend
 
 @snap[east span-45]
-![IMAGE](assets/img/conference.png)
-@snapend
-
-@snap[south span-100 bg-black fragment]
-@img[shadow](assets/img/conference.png)
+![IMAGE](assets/img/mesh.png)
 @snapend
 
 ---
