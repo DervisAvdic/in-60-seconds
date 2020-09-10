@@ -70,7 +70,7 @@
 @snapend
 
 @snap[south span-100 black text-08]
-@[1-5](And we provide the components)
+@[1-5](And WE provide the components)
 @[6,7, zoom-13](making it super simple for you)
 @[8-9, zoom-12](to provision the infrastructure)
 @snapend
