@@ -37,8 +37,9 @@ html, body {
   text-shadow: none;
 }
 
-.ingka-blue {
-  text: #0058a3
+#title-footer #notification {
+  font-family: 'Roboto', sans-serif;
+  visibility: hidden;
 }
 
 .reveal .progress {
