@@ -25,9 +25,9 @@
 
 @snap[west span-55]
 @ul[list-spaced-bullets text-09]
-- APIM takes care of infrastructure
-- APIM takes care of support
-- APIM takes care of cost
+- APIM owns the infrastructure
+- APIM own the support
+- APIM owns the cost
 @ulend
 @snapend
 
@@ -59,9 +59,9 @@
 
 @snap[west span-55]
 @ul[list-spaced-bullets text-09]
-- Secure data
-- Resolve support cases faster
-- Achieve product team autonomy
+- You own the API runtime
+- You bare the cost for full transparency/accountability
+- You own the support
 @ulend
 @snapend
 
@@ -72,10 +72,10 @@
 ---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
 
 @snap[east span-50 text-center]
-### Looks nice? Yeah. I can imagine.
+### Looks nice? Stay tuned.
 @snapend
 
 @snap[south-east span-50 text-center text-06]
-[Contact APIM @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
+[Contact API Management on Slack @fa[external-link]](https://ingka.slack.com/archives/CNSCXHH33)
 @snapend
 
