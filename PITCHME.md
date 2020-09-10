@@ -69,8 +69,10 @@
 ![IMAGE](assets/img/mesh.png)
 @snapend
 
-@snap[south span-100]
-Snap Layouts let you create custom slide designs directly within your markdown.
+@snap[south span-100 black text-08]
+@[1-5](And we provide the components)
+@[6,7, zoom-13](making it super simple for you)
+@[8-9, zoom-12](to provision the infrastructure)
 @snapend
 
 ---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
