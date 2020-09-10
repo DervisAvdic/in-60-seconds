@@ -78,10 +78,10 @@
 ---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
 
 @snap[east span-50 text-center]
-### Looks nice? Stay tuned.
+### Looks nice? Give us your confidence score below.
 @snapend
 
 @snap[south-east span-50 text-center text-06]
-[Contact API Management on Slack @fa[external-link]](https://ingka.slack.com/archives/CNSCXHH33)
+[Confidence score @fa[external-link]](https://forms.office.com/Pages/ResponsePage.aspx?id=emMLclplz0CBavIvQHVcLBSJwU5t2zNKg_5lBLk4oNtUNlgwTDY1ODVaV1FVMDlHRzBRNERHOU1YVi4u)
 @snapend
 
